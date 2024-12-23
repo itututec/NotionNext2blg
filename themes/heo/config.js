@@ -24,7 +24,7 @@ const CONFIG = {
   HEO_HERO_TITLE_4: '今日必看',
   HEO_HERO_TITLE_5: '忘川不是里 最新精彩必看',
   HEO_HERO_TITLE_LINK: 'https://wcny68.itututec.eu.org',
-  英雄区遮罩文字
+  // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
