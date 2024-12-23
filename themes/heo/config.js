@@ -18,14 +18,14 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享科技与生活',
-  HEO_HERO_TITLE_2: '精彩绝伦每一天',
-  HEO_HERO_TITLE_3: 'wcny68.itututec.eu.org',
-  HEO_HERO_TITLE_4: '今日必看',
-  HEO_HERO_TITLE_5: '忘川不是里 最新精彩必看',
-  HEO_HERO_TITLE_LINK: 'https://wcny68.itututec.eu.org',
+  //- HEO_HERO_TITLE_1: '分享科技与生活',
+  //- HEO_HERO_TITLE_2: '精彩绝伦每一天',
+  //- HEO_HERO_TITLE_3: 'wcny68.itututec.eu.org',
+  //- HEO_HERO_TITLE_4: '今日必看',
+  //- HEO_HERO_TITLE_5: '忘川不是里 最新精彩必看',
+  //- HEO_HERO_TITLE_LINK: 'https://wcny68.itututec.eu.org',
   // 英雄区遮罩文字
-  HEO_HERO_COVER_TITLE: '随便逛逛',
+  //- HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
