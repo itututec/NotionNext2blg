@@ -18,8 +18,8 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享科技',
-  HEO_HERO_TITLE_2: '与生活,丰富精彩每一天',
+  HEO_HERO_TITLE_1: '分享科技与生活',
+  HEO_HERO_TITLE_2: '丰富精彩每一天',
   HEO_HERO_TITLE_3: 'wcny68.itututec.eu.org',
   HEO_HERO_TITLE_4: '今日必看',
   HEO_HERO_TITLE_5: '忘川不是里 最新精彩必看',
