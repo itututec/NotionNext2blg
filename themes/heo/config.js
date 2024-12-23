@@ -4,7 +4,7 @@ const CONFIG = {
 
   HEO_HOME_BANNER_ENABLE: false,
 
-  HEO_SITE_CREATE_TIME: '2024-12-10', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2023-12-10', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
@@ -51,7 +51,7 @@ const CONFIG = {
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
   HEO_INFO_CARD_URL2: 'https://wcny68.itututec.eu.org',
-  HEO_INFO_CARD_ICON2: 'fab fa-home',
+  HEO_INFO_CARD_ICON2: 'fas fa-home',
   HEO_INFO_CARD_URL3: 'https://wcny68.itututec.eu.org',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
