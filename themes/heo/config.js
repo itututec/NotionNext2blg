@@ -119,6 +119,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
+  HEO_SOCIAL_CARD_ICON3: 'fa fa-telegram',
   HEO_SOCIAL_CARD_URL: 'https://t.me/+w6bWo3Hwf6pkNDBl',
 
   // *****  以下配置无效，只是预留开发 ****
